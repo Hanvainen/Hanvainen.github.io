@@ -1,29 +1,29 @@
 ## Exercise 1
 
-###_italics_ and **bold**
+### _italics_ and **bold**
 
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-###Headers
+### Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
 
-###[Links](https://github.com/Hanvainen)
+### [Links](https://github.com/Hanvainen)
 
 [Search for it.](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -32,7 +32,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]:www.zombo.com
 [another fun place]:www.stumbleupon.com
 
-###Images
+### Images
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -43,7 +43,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-###Blockquotes
+### Blockquotes
 
 I read this interesting quote the other day:
 
@@ -57,7 +57,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-###Lists
+### Lists
 
 * Flour
 * Cheese
@@ -91,7 +91,7 @@ I read this interesting quote the other day:
     
     For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-###Paragraphs
+### Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
@@ -107,7 +107,7 @@ To doubt they were kneeling then.
 
 ## Exercise 2
 
-###[AsciiDoc](https://en.wikipedia.org/wiki/AsciiDoc)
+### [AsciiDoc](https://en.wikipedia.org/wiki/AsciiDoc)
 
 >**AsciiDoc** was created in _2002_ by Stuart Rackham, who published tools (‘asciidoc’ and ‘a2x’),
 >written in the Python programming language to convert plain-text, ‘human readable’ files to commonly used published document formats.
@@ -115,7 +115,7 @@ To doubt they were kneeling then.
 >**AsciiDoc** documents can be created using any text editor and read “as-is”, 
 >or rendered to HTML or any other format supported by a DocBook tool-chain, i.e. PDF, TeX, Unix manpages, e-books, slide presentations, etc.
 
-###[Enriched text](https://en.wikipedia.org/wiki/Enriched_text)
+### [Enriched text](https://en.wikipedia.org/wiki/Enriched_text)
 
 >**Enriched text** is a formatted text format for e-mail,
 >defined by the IETF in RFC _1896_ and associated with the text/enriched MIME type which is defined in RFC 1563.
