@@ -15,7 +15,7 @@ _"A pessimist sees the difficulty in every opportunity; an optimist sees the opp
   
 :thumbsdown:
 * Kylymät kelit
-* Turhanpäivänen ilkeily
+* Turhanpäevänen ilikeily
 * Ruusukaali
 
 
